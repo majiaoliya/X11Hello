@@ -1,0 +1,10 @@
+xlib programming example programs.
+---------------------------------
+
+This directory contains the source code for several example programs,
+as well as the xlib programming tutorial. See the tutorial for explanations
+about what the various programs here do.
+
+To compile the programs, type 'make' (or 'gmake', to use gnu make).
+To remove all the compiler-generated files, type 'make clean'
+(or 'gmake clean').
